@@ -1,0 +1,24 @@
+08/08/21 11:03:05 PM Sunday - WebDriverClass - INFO : FireFox Driver is initializing
+08/08/21 11:03:05 PM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
+08/08/21 11:03:30 PM Sunday - BaseClass - ERROR : WebElement not found with locator value sprite svg-search-icon using locatorType class
+08/08/21 11:03:30 PM Sunday - BaseClass - ERROR : Unable to Click on WebElement with locator value sprite svg-search-icon using locatorType class
+08/08/21 11:03:33 PM Sunday - BaseClass - INFO : WebElement found with locator value searchInput using locatorType id
+08/08/21 11:03:33 PM Sunday - BaseClass - INFO : Sent the text Selenium in WebElement with locator value searchInput using locatorType id
+08/08/21 11:04:56 PM Sunday - WebDriverClass - INFO : FireFox Driver is initializing
+08/08/21 11:04:56 PM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
+08/08/21 11:05:21 PM Sunday - BaseClass - ERROR : WebElement not found with locator value pure-button pure-button-primary-progressive using locatorType class
+08/08/21 11:05:22 PM Sunday - BaseClass - ERROR : Unable to Click on WebElement with locator value pure-button pure-button-primary-progressive using locatorType class
+08/08/21 11:05:24 PM Sunday - BaseClass - INFO : WebElement found with locator value searchInput using locatorType id
+08/08/21 11:05:24 PM Sunday - BaseClass - INFO : Sent the text Selenium in WebElement with locator value searchInput using locatorType id
+08/08/21 11:08:25 PM Sunday - WebDriverClass - INFO : FireFox Driver is initializing
+08/08/21 11:08:25 PM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
+08/08/21 11:08:25 PM Sunday - BaseClass - INFO : WebElement found with locator value .pure-button using locatorType css
+08/08/21 11:08:26 PM Sunday - BaseClass - INFO : Clicked on WebElement with locator value .pure-button using locatorType css
+08/08/21 11:08:31 PM Sunday - BaseClass - INFO : WebElement found with locator value searchInput using locatorType id
+08/08/21 11:08:31 PM Sunday - BaseClass - INFO : Sent the text Selenium in WebElement with locator value searchInput using locatorType id
+08/08/21 11:13:26 PM Sunday - WebDriverClass - INFO : FireFox Driver is initializing
+08/08/21 11:13:26 PM Sunday - BaseClass - INFO : Web Page Launched with URL : https://www.wikipedia.org/
+08/08/21 11:13:29 PM Sunday - BaseClass - INFO : WebElement found with locator value searchInput using locatorType id
+08/08/21 11:13:29 PM Sunday - BaseClass - INFO : Sent the text Selenium in WebElement with locator value searchInput using locatorType id
+08/08/21 11:13:29 PM Sunday - BaseClass - INFO : WebElement found with locator value .pure-button using locatorType css
+08/08/21 11:13:30 PM Sunday - BaseClass - INFO : Clicked on WebElement with locator value .pure-button using locatorType css
